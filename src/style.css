@@ -1,0 +1,15 @@
+.nav-brand {
+    font-family: 'Opticon', sans-serif;
+    letter-spacing: 1px;
+    color: #EC7AB7;
+    font-size: 25px;
+    margin-top: 10px;                          
+  }
+
+.ticket-brand {
+    font-family: 'Opticon', sans-serif;
+    letter-spacing: 1px;
+    color: #FFF;
+    font-size: 15px;
+    background-color: "linear-gradient(#EC7AB7, #EC7A7A)"
+}
